@@ -1,0 +1,69 @@
+TextWidget { 
+  color: black;  
+  font-family: 'Arial', serif;
+  background: transparent;
+  width: 300px;
+  font-size: 24px;
+  text-align: center;
+}
+
+.wordSelect{
+  color: black;  
+  font-family: 'Arial', serif;
+  background: transparent;
+  width: 600px;
+  font-size: 35px;
+  text-align: center;
+  font-weight: bold;
+}
+
+
+VideoWidget {
+  background-clip: padding-box;
+  background-repeat: no-repeat;
+  background-color: white;
+
+  stroke-width: 2px;
+  stroke: white;
+  font-family: sans-serif;
+  font-weight: bold;
+  font-size: 16px;
+  wrap-mode: none;
+}
+
+.ImageW {
+  background-clip: padding-box;
+  background-repeat: no-repeat;
+  background-size: 25px auto;
+  background-position: center top;
+  padding: 15px;
+  padding-top: 20px;
+}
+
+.quizWords{
+  background-color: cyan;
+  width:110px;
+  height:40px;
+}
+
+.quizWord2{
+  background-color: cyan;
+  width:120px;
+  height:40px;
+}
+
+.submissionM{
+  background-color: navy;
+  width: 600px;
+  font-size: 28px;
+  font-weight: bold;
+  color: white;
+}
+
+.submissionM2{
+  background-color: red;
+  width: 400px;
+  font-size: 24px;
+  font-weight: bold;
+  color: white;
+}
