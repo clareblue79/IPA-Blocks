@@ -2,6 +2,7 @@
 ## Wellesley CS 320 Tangile User Interfaces Final Project
 
 **Developed by Yuna Hahn, Clare Lee, and Mai Li Goodman**
+
 _Media file omitted due to its size_
 
 Please check out the website for more information: http://ahahn2.wixsite.com/ipablocks
